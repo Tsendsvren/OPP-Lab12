@@ -23,7 +23,7 @@
 ---
 ## ЛАБОРАТОРИЙН АЖЛЫН ҮР ДҮН:
 <p align="center">
-  <img src="OPP-Lab12\Java\src\image\lab12.png" alt="lab12" width="150"/>
+  <img src="Java/src/image/lab12.png" alt="lab12" width="150"/>
 </p>
 ---
 Энэ лабораторын ажилын үр дүнд 8 элементээс 7 элемент 100%-тай ажиллаж 1 элемент 83%-тай ажиллаа. 
